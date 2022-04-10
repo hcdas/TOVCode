@@ -2,7 +2,7 @@
 This code calculate some of the macroscopic properties of the neutron star such as its mass, radius, compactness and central density. 
 
 Requirments
-numpy, scipy, matplotllib
+python3, math, numpy, scipy, matplotllib
 
 To download
 git clone https://github.com/hcdas/TOVCode
