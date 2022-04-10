@@ -4,8 +4,9 @@ This code calculate some of the macroscopic properties of the neutron star such 
 Requirments
 python3, math, numpy, scipy, matplotllib
 
-To download
-git clone https://github.com/hcdas/TOVCode
+To download 
+
+'git clone https://github.com/hcdas/TOVCode'
 
 The eos_unified_IOPB.dat can be found from the following link https://github.com/hcdas/Unfied_pasta_eos
 
