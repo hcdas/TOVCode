@@ -4,6 +4,8 @@ This code calculate some of the macroscopic properties of the neutron star such 
 Requirments
 python3, math, numpy, scipy, matplotllib
 
+It is the slightly modified version of the TOV code written by Amotonenko (https://github.com/amotornenko)
+
 To download 
 
 'git clone https://github.com/hcdas/TOVCode'
